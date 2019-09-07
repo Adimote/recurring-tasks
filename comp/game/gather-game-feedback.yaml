@@ -1,0 +1,22 @@
+summary: Gather feedback for the game/schedule
+
+priority: minor
+
+component: Competition
+
+milestone: $SRYYYY Competition
+
+description: >-
+  During the competition (or preferably near the end) some feedback should be
+  collected from the competing teams on the game. 
+  
+  Here are some ideas of what information to ask for:
+  - How fair is the game?
+  - Do you think it's easy to score a few points and hard to score a lot 
+    of points?
+  - Is the game interesting to watch?
+  - Did you find it easy to prototype the game?
+  - Is each match too long/short?
+  - Are you okay with the number of matches you had, and the gap between them?
+  - Does the game give you a good enough mechanical & eletronics challenge?
+  
